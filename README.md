@@ -1,1 +1,1 @@
-Sorting and Algorithms
+Sorting and Algos
